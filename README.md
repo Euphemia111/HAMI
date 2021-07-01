@@ -2,8 +2,52 @@
 
 This is repository for [HAMI lab page](http://127.0.0.1:4000). We use Jekyll to run our Github page.
 
+- [Installation - How to run a Jekyll project in MacOS](#installation---how-to-run-a-jekyll-project-in-macos)
+  * [1. install gem & Jekyll](#1-install-gem---jekyll)
+  * [2. clone the project from GitHub](#2-clone-the-project-from-github)
+  * [3. run the project](#3-run-the-project)
+- [User Manual - How can you modify the contents](#user-manual---how-can-you-modify-the-contents)
+  * [Member Part](#member-part)
+    + [Members Page](#members-page)
+    + [Personal Page](#personal-page)
+- [Project Codes](#project-codes)
+  * [folder: _layouts](#folder---layouts)
+    + [1. default.html](#1-defaulthtml)
+    + [2. error.html](#2-errorhtml)
+    + [3. member.html](#3-memberhtml)
+    + [4. misc.html](#4-mischtml)
+    + [5. paper.html](#5-paperhtml)
+    + [6. post.html](#6-posthtml)
+    + [7. project.html](#7-projecthtml)
+    + [8. redirect.html](#8-redirecthtml)
+    + [9. talk.html](#9-talkhtml)
+  * [folder: blog](#folder--blog)
+    + [1. folder: _posts](#1-folder---posts)
+    + [2. /archive/index.html](#2--archive-indexhtml)
+    + [3. index.html](#3-indexhtml)
+  * [folder: calender](#folder--calender)
+  * [folder: css](#folder--css)
+    + [1. folders: bootstrap, font, font-awesome, fonts](#1-folders--bootstrap--font--font-awesome--fonts)
+    + [2. custom.scss, katex.scss, solarized.scss, style.css](#2-customscss--katexscss--solarizedscss--stylecss)
+  * [folder: error](#folder--error)
+  * [folder: guide](#folder--guide)
+  * [folder: images](#folder--images)
+  * [folder: js](#folder--js)
+  * [folder: misc](#folder--misc)
+  * [folder: papers](#folder--papers)
+    + [1. folder: _posts](#1-folder---posts-1)
+    + [2. index.html](#2-indexhtml)
+  * [folder: pdfs](#folder--pdfs)
+  * [folder: talks](#folder--talks)
+    + [1. folder: _posts](#1-folder---posts-2)
+    + [2. index.html](#2-indexhtml-1)
+  * [folder: team](#folder--team)
+    + [1. folder: _posts](#1-folder---posts-3)
+    + [2. index.html](#2-indexhtml-2)
+  * [404.html](#404html)
+  * [index.html](#indexhtml)
 
-**Contents**
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 # Installation - How to run a Jekyll project in MacOS
 
