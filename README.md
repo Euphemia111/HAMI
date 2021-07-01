@@ -167,7 +167,7 @@ This file defines the page of /404. Page displays page title & default content (
 
 This file defines the contents to be display on page /team/member-name.
 
-![Image text](https://raw.github.com/Euphemia111/HAMI/img_folder/3member.png)
+![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/3member.png)
 
 - line 29 - 108: define the left part: CV, twitter, github, google scholar
 - line 109 - 199: define the right part
