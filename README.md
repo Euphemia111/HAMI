@@ -274,7 +274,7 @@ Files in this folder defines the basic logics of the website, and it is better n
 
 ## folder: misc
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f746516-4dfd-4051-a063-ee4ed0afbcfb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f746516-4dfd-4051-a063-ee4ed0afbcfb/Untitled.png)
+![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/misc.png)
 
 As is circled in the screenshot, markdown files in the misc folder defines what will display when you click these buttons.
 
@@ -288,7 +288,7 @@ Similar to blog, files under this folder are the papers in markdown files.
 
 Define the display in this page.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b153bf-74ca-4a76-9763-d89065c22ba6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76b153bf-74ca-4a76-9763-d89065c22ba6/Untitled.png)
+![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/2index.png)
 
 - line 10 - 22: how the brief introduction of each paper will be displayed
 
@@ -306,7 +306,7 @@ The talks file.
 
 Define the layout of this page.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/833f987e-b3fe-439d-9b06-55edc3c143fa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/833f987e-b3fe-439d-9b06-55edc3c143fa/Untitled.png)
+![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/2index2.png)
 
 - line 8 - 14: header display: Talks
 - line 28 - 49: display of each talk
@@ -324,7 +324,7 @@ Personal information needs to be displayed in the member page.
 
 Define the layout of this page.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5deb1ced-daf0-4426-8e7b-7affd124669e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5deb1ced-daf0-4426-8e7b-7affd124669e/Untitled.png)
+![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/2index3.png)
 
 - line 8 - 14: define the Part I header display: Current members
 - line 18 - 37: define the display of each member's basic info
@@ -343,7 +343,7 @@ Define the page display of home page.
 - line 8 - 15: header display
 - Part I: Recent posts
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df6f9221-da6b-48e6-a2a7-eba7b877f5f9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df6f9221-da6b-48e6-a2a7-eba7b877f5f9/Untitled.png)
+   ![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/index.png)
 
     - line 35 - 42: part I header display: Recent posts
     - line 44 - 104: display of posts
@@ -351,7 +351,7 @@ Define the page display of home page.
         - line 53 - 101: basic information needs to be displayed (title, post date, author)
 - Part II: Recent papers
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4f582eb-d399-4f68-96ac-ad63734fb61c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4f582eb-d399-4f68-96ac-ad63734fb61c/Untitled.png)
+   ![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/index2.png)
 
     - line 107 - 114: part II header display: Recent papers
     - line 116 - 134: display of papers
@@ -359,7 +359,7 @@ Define the page display of home page.
         - line 118 - 133: basic information needs to be displayed (title, published date)
 - Part III: Active Projects
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c274fa3c-bc94-4cec-ab27-f48ee81d5ccb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c274fa3c-bc94-4cec-ab27-f48ee81d5ccb/Untitled.png)
+   ![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/index3.png)
 
     - line 139 - 146: part III header display: Active Projects
     - line 148 - 173: display of projects
@@ -367,7 +367,7 @@ Define the page display of home page.
         - line 150 - 171: basic information needs to be displayed (title-description, updated date and committer)
 - Part IV: Misc
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c274fa3c-bc94-4cec-ab27-f48ee81d5ccb/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c274fa3c-bc94-4cec-ab27-f48ee81d5ccb/Untitled.png)
+    ![Image text](https://github.com/Euphemia111/HAMI/blob/main/img_folder/index3.png)
 
     - line 177 - 184: part IV header display: Misc
     - line 186 - 205: display of misc
