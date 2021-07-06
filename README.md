@@ -79,7 +79,7 @@ jekyll -v
     # run the following command in the terminal
     # then the project will be cloned to your desktop
     cd desktop
-    git clone -b cc https://github.com/SIKAI-C/try-construct.git
+    git clone https://github.com/Euphemia111/HAMI.git
     ```
 
 ## 3. run the project
@@ -88,8 +88,8 @@ jekyll -v
 # enter the **try_construct** folder
 # for instance:
 cd desktop
-cd try-construct
-cd try_construct
+cd HAMI
+cd web
 
 # then type:
 bundle exec jekyll serve
